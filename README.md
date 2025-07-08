@@ -1,13 +1,13 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="[https://github.com/javedkhanmangal528/javedkhanmangal528/blob/main/Github%20Banner.png](https://github.com/javedkhan3/javedkhan3/blob/main/banner.png?raw=true)" alt="banner" />
+  <img src="https://github.com/javedkhan3/javedkhan3/blob/main/D.png?raw=true" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Javed Khan</h1>
 <h3 align="center">🚀 Passionate Front-End Developer | ReactJS & Tailwind CSS Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javedkhanmangal528&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github.com/javedkhan3/javedkhan3/blob/main/D.png?raw=true" alt="Profile Views" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 📧 Reach me at: [javedkhanmangal528@gmail.com](mailto:javedkhanmangal528@gmail.com)  
 📱 WhatsApp: +92 336 3337774  
-💼 Connect on [LinkedIn](https://www.linkedin.com/in/javed-khan528/)
+💼 Connect on [LinkedIn](https://www.linkedin.com/in/javed-khan-51724028a/)
 
 ---
 
@@ -74,13 +74,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javedkhanmangal528&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javedkhan3&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javedkhanmangal528&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=javedkhan3&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javedkhanmangal528&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javedkhan3&" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,13 +88,13 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/javedkhanm528" target="_blank">
+  <a href="https://x.com/JavedKh45662306" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/javed-khan528/" target="_blank">
+  <a href="https://www.linkedin.com/in/javed-khan-51724028a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/javedkhan.528/" target="_blank">
+  <a href="https://www.instagram.com/javed2617khan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
