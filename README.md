@@ -17,7 +17,7 @@
 - 🔍 Learning full-stack development and building clean, responsive UIs
 - 👨‍💻 Currently doing an internship at **OutScalors**
 - 🎯 Goal: Become a **Full-Stack Developer**
-- 🗣 Fun Fact: *I’m deeply passionate about nature, mountains, and driving* 🚗⛰️
+- 🗣 Fun Fact: *I build clean UIs with the same passion I have for mountain drives — smooth, focused, and purpose-driven. * 🚗💻⛰️
 
 📧 Reach me at: [javedkhanmangal528@gmail.com](mailto:javedkhanmangal528@gmail.com)  
 📱 WhatsApp: +92 336 3337774  
