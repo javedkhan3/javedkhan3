@@ -3,7 +3,7 @@
   <img src="https://github.com/javedkhan3/javedkhan3/blob/main/D.png?raw=true" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Javed Khan</h1>
+<h1 align="center">Hi 👋, I'm Javed Rehman</h1>
 <h3 align="center">🚀 Passionate Front-End Developer | ReactJS & Tailwind CSS Enthusiast</h3>
 
 
