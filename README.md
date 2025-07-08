@@ -6,9 +6,7 @@
 <h1 align="center">Hi 👋, I'm Javed Khan</h1>
 <h3 align="center">🚀 Passionate Front-End Developer | ReactJS & Tailwind CSS Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github.com/javedkhan3/javedkhan3/blob/main/D.png?raw=true" alt="Profile Views" />
-</p>
+
 
 ---
 
