@@ -15,7 +15,7 @@
 - 🎓 **BS Software Engineering** graduate from KUST University
 - 💻 **Front-End Developer** focused on **ReactJS**, **JavaScript**, and **Tailwind CSS**
 - 🔍 Learning full-stack development and building clean, responsive UIs
-- 👨‍💻 Currently doing an internship at **OutScalors**
+- 👨‍💻 Currently doing an internship at **OutScalers**
 - 🎯 Goal: Become a **Full-Stack Developer**
 - 🗣 Fun Fact: *I build clean UIs with the same passion I have for mountain drives — smooth, focused, and purpose-driven. * 🚗💻⛰️
 
