@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/javedkhan3/javedkhan3/blob/main/D.png?raw=true" alt="banner" />
+  <img src="https://github.com/javedkhan3/javedkhan3/blob/main/banner.png?raw=true" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Javed Rehman</h1>
